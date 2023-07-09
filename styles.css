@@ -1,0 +1,45 @@
+*{
+    border-radius: 4px;
+}
+.container {
+    background-color: white;
+    height: 100vh;
+}
+.title {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.header {
+    padding: 20px 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+.col-4 {
+    background-color: rgb(255, 106, 80);
+    margin-right: 20px;
+
+}
+.content p {
+    padding: 6em;
+    background-color: lightgray;
+    text-align: center;
+    margin: 10px;
+}   
+.content h3 {
+    background-color: yellow;
+    padding: 20px 20px;
+    margin: 30px 10px;
+    text-align: center;
+}
+.content ul li {
+    list-style-type: none;
+    background-color: lightgrey;
+    margin: 10px;
+    margin-left: -20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
